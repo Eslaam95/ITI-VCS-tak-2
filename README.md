@@ -9,7 +9,7 @@ It doesn't support messages and doesn't conatin metadata. Just pointer to a comm
 Used as a quick reference to commits.
 
 ### Annonated tags
-We use `git tag -a v1.0 -m "message"` for Annonated tags.
+We use `git tag -a v1.7 -m "message"` for Annonated tags.
 
 Support messages and conatins metadata. More like an object.
 
@@ -30,11 +30,11 @@ We use `git tag` to list all tags
 
 
 ## How to delete a tag locally and remotely?
-Locally `git tag -d v1.0`
+Locally `git tag -d v1.7`
 
-Remotely `git push --delete v1.0`
+Remotely `git push --delete v1.7`
 
-`v1.0` is just the tag name.
+`v1.7` is just the tag name.
 
 ---------------------------------------------
 

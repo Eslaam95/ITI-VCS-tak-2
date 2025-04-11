@@ -4,11 +4,16 @@
 ### Lightweight tags
 We use `git tag v1.7` for lightweight tags.
 
-It doesn't support messages and doesn't have conatin metadata. Just pointer to a commit.
+It doesn't support messages and doesn't conatin metadata. Just pointer to a commit. 
+
+Used as a quick reference to commits.
+
 ### Annonated tags
 We use `git tag -a v1.0 -m "message"` for Annonated tags.
 
 Support messages and conatins metadata. More like an object.
+
+Used more for public releases.
 
 ---------------------------------------------
 

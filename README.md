@@ -1,5 +1,5 @@
 # READ ME
-<
+
 ## <u>Annonated tags vs Lightweight tags</u>
 ### Lightweight tags
 We use `git tag v1.7` for lightweight tags.
@@ -23,5 +23,5 @@ Remotely `git push --delete v1.0`
 
 `v1.0` is just the tag name.
 
-## <<u>Image</u>
+## <u>Image</u>
 ![Alt text](image.png)

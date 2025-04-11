@@ -1,3 +1,5 @@
+# READ ME
+
 ## Annonated tags vs Lightweight tags
 ### Lightweight tags
 We use `git tag v1.7` for lightweight tags.
